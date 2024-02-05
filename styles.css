@@ -233,6 +233,11 @@ body {
   padding-bottom: 20px;
   background-color: rgb(9, 194, 105);
 }
+
+.page-button1:hover {
+  opacity: 75%;
+}
+
 .page-right-hero {
   flex: 0 0 auto;
   width: 22%;
@@ -275,6 +280,7 @@ body {
   margin-top: 10px;
   align-items: center;
   justify-content: center;
+  padding-right: 40px;
 }
 .page-star1 {
   width: 24px;
@@ -584,6 +590,27 @@ body {
   font-size: 12px;
   font-style: normal;
   font-weight: 600;
+}
+
+.page-buy-button:hover {
+  opacity: 75%;
+}
+
+
+.page-readmore-button:hover {
+  opacity: 75%;
+}
+
+a:hover{
+opacity: 50%;
+}
+
+.navigation-links-text:hover{
+  opacity: 50%;
+}
+
+.navigation-links-text1:hover{
+  opacity: 50%;
 }
 
 .page-readmore-button {
@@ -954,6 +981,11 @@ padding: 0 60px;
   padding-bottom: 20px;
   background-color: #000000;
 }
+
+.page-button1:hover {
+  opacity: 75%;
+}
+
 .page-right6 {
   flex: 0 0 auto;
   width: 50%;
